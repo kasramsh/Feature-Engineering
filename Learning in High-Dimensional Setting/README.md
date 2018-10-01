@@ -1,6 +1,6 @@
 # Low Sample Size Problem
 
-Our example is eigenface embedding. The ORL Face dataset from Cambridge is used which can be found publicly [here](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html).
+Our example is eigenface embedding. The ORL Face dataset from AT&T Cambridge is used which can be found publicly [here](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html).
 
 See their paper for more info. 
 > -- <cite>[Parameterisation of a Stochastic Model for Human Face Identification][1]</cite>
